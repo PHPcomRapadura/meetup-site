@@ -1,4 +1,4 @@
-<nav class="color-marron" role="navigation">
+<nav class="color-azul" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#home" class="brand-logo scrollSuave">
       
@@ -14,7 +14,7 @@
         <li><a href="#sponsors" class="scrollSuave"><strong>Patrocinadores</strong></a></li>
       </ul>
 
-      <ul id="nav-mobile" class="sidenav color-marron">
+      <ul id="nav-mobile" class="sidenav color-azul">
         <li><a href="#home" class="scrollSuave"><strong>Início</strong></a></li>
         <li><a href="#about" class="scrollSuave"><strong>Sobre</strong></a></li>
         <li><a href="#speakers" class="scrollSuave"><strong>Palestrantes</strong></a></li>

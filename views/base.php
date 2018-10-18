@@ -12,7 +12,7 @@
     <link href="assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<body class="amber lighten-4">
+<body>
 
     <!-- Top Navigation -->
     <?php require_once 'views/nav.php'; ?>

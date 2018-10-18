@@ -4,13 +4,13 @@
       <div class="row">
         <div class="col s12 center">
 
-          <h3 class="font-marron"><strong>Programação</strong></h3>
-          <h5 class="font-marron">E o que vai ter de bom?</h5>
+          <h3 class="font-blue"><strong>Programação</strong></h3>
+          <h5 class="font-blue">E o que vai ter de bom?</h5>
 
-        <div class="col s12 center card brown lighten-4">
+        <div class="col s12 center card">
 
               <table class="responsive-table highlight">
-                <thead>
+                <thead class="font-blue">
                   <tr>
                       <th><strong>Horário</strong></th>
                       <th><strong>Atividade</strong></th>
@@ -18,7 +18,7 @@
                   </tr>
                 </thead>
 
-                <tbody>
+                <tbody class="font-blue">
                   <tr>
                     <td>07:30 - 08:00</td>
                     <td>Café e Credenciamento</td>
