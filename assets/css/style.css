@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  background: #563529 !important;
+  background: #025c98 !important;
   color: rgb(250, 246, 246);
 }
 
@@ -16,7 +16,7 @@ nav .brand-logo {
   border-width: medium;
   border-style: solid;
   border-radius: 10%;
-  border-color: #563529;
+  border-color: #025c98;
 }
 
 #img-speakers{
@@ -24,7 +24,7 @@ nav .brand-logo {
   border-width: medium;
   border-style: solid;
   border-radius: 50%;
-  border-color: #563529;
+  border-color: #025c98;
   width: 50%;
 }
 
@@ -35,6 +35,20 @@ nav.color-marron {
 
 .color-marron {
   background: #563529 !important;
+}
+
+nav.color-azul {
+  background: #025c98 !important;
+  z-index: 1000;
+}
+
+.font-blue {
+    color: #025c98 !important;
+}
+
+.btn-blue {
+    background: #025c98 !important;
+    color: #FFFFFF;
 }
 
 .font-marron{

@@ -3,8 +3,8 @@
         <div class="row">
 
             <div class="col s12 center">
-                <h3 class="font-marron"><strong>Local</strong></h3>
-                <h5 class="font-marron">Veja em detalhes onde será o evento</h5> 
+                <h3 class="font-blue"><strong>Local</strong></h3>
+                <h5 class="font-blue">Veja em detalhes onde será o evento</h5>
             </div>
 
               <div class="col s12 m8">
@@ -17,9 +17,9 @@
               <div class="col s12 m4">
                 <div class="icon-block">
                     <H1><br></H1>
-                    <h4 class="font-marron"><strong>UNIFOR</strong></h4> 
-                    <h5 class="font-marron">Universidade de Fortaleza</h5>
-                    <p class="light font-marron">
+                    <h4 class="font-blue"><strong>UNIFOR</strong></h4>
+                    <h5 class="font-blue">Universidade de Fortaleza</h5>
+                    <p class="font-blue">
                         Av. Washington Soares, 1321 - Edson Queiroz, Fortaleza - Ceará.
                     </p>
                 </div>
