@@ -14,11 +14,11 @@
 
             <div class="row center">
                 <a href="#about" id="download-button"
-                   class="btn-large waves-effect waves-light color-marron scrollSuave">SAIBA MAIS</a>
+                   class="btn-large waves-effect waves-light btn-blue scrollSuave">SAIBA MAIS</a>
             </div>
         </div>
     </div>
     <div class="parallax">
-        <img src="/assets/img/banner-site.png" alt="PHP com Rapadura CONFERENCE 2018" />
+        <img src="/assets/img/banner.png" alt="PHP com Rapadura CONFERENCE 2018" />
     </div>
 </div>
