@@ -15,20 +15,20 @@
             <div class="col s12 m6">
                 <div class="card">
                     <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Cyrille Grandval - Keynote</strong></span>
+                        <span class="card-title font-blue center"><strong>Dorian Neto</strong></span>
                         <hr></hr>
                         <div class="center">
                             <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/cyrille-grandval.jpg" alt="Cyrille Grandval" title="Cyrille Grandval">
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/dorian-neto.jpg" alt="Dorian Neto" title="Dorian Neto">
                         </div>
 
                     </div>
                     <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/cgrandval"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/dorianneto"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="blue-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/cyrillegrandval"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/doriansneto"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/cyrille.grandval"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/doriansampaioneto"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
@@ -62,94 +62,25 @@
             <div class="col s12 m6">
                 <div class="card">
                     <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Vidal Vasconcelos</strong></span>
+                        <span class="card-title font-blue center"><strong></strong></span>
                         <hr></hr>
                         <div class="center">
                             <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/vidal-vasconcelos.jpeg" alt="Vidal Vasconcelos" title="Vidal Vasconcelos">
+                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/" alt="Vidal Vasconcelos" title="Vidal Vasconcelos">
                         </div>
 
                     </div>
                     <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/vidalvasconcelos"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Github" target="_blank" href=""><i class="fa fa-github fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="blue-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/vidalvas"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Twitter" target="_blank" href=""><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/vidalvasconcelos"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href=""><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
 
                     </div>
                 </div>
             </div>
-
-
-            <div class="col s12 m6">
-                <div class="card">
-                    <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Ian Rodrigues</strong></span>
-                        <hr></hr>
-                        <div class="center">
-                            <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/ian-rodrigues.jpg" alt="Ian Rodrigues" title="Ian Rodrigues">
-                        </div>
-
-                    </div>
-                    <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/ianrodrigues"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                        </a>
-                        
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/ian.rodrigues.79230"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="col s12 m6">
-                <div class="card">
-                    <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Jholdy Phillipy</strong></span>
-                        <hr></hr>
-                        <div class="center">
-                            <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/jholdy.jpeg" alt="Jholdy Phillipy" title="Jholdy Phillipy">
-                        </div>
-
-                    </div>
-                    <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/jholdy"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                        </a>
-                        
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/jholdy.pd"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-
-             <div class="col s12 m6">
-                <div class="card">
-                    <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Alef Castelo</strong></span>
-                        <hr></hr>
-                        <div class="center">
-                            <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/alef-castelo.jpeg" alt="Alef Castelo" title="Alef Castelo">
-                        </div>
-
-                    </div>
-                    <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/alefcastelo"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                        </a>
-                        
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/AlefCastelo"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-
 
             <div class="col s12 m6">
                 <div class="card">
@@ -172,30 +103,6 @@
                     </div>
                 </div>
             </div>
-
-            <div class="col s12 m6">
-                <div class="card">
-                    <div class="card-content white-text">
-                        <span class="card-title font-blue center"><strong>Luítame de Oliveira</strong></span>
-                        <hr></hr>
-                        <div class="center">
-                            <br>
-                            <img class="responsive-img" id="img-speakers" src="assets/img/speakers/luitame.jpeg" alt="Luítame de Oliveira" title="Luítame de Oliveira">
-                        </div>
-
-                    </div>
-                    <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/luitame"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="blue-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/luitame"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/luitame"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-
 
         </div>
 
