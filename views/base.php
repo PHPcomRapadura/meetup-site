@@ -44,6 +44,12 @@
     <!-- Section Parallax three -->
     <?php require_once 'views/parallax-four.php'; ?>
 
+    <!-- Section Conduct-code -->
+    <?php require_once 'views/conduct-code.php'; ?>
+
+    <!-- Section FAQ -->
+    <?php require_once 'views/faq.php'; ?>
+
     <!-- Section sponsors -->
     <?php require_once 'views/sponsors.php'; ?>
 
