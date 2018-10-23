@@ -66,16 +66,14 @@
                         <hr></hr>
                         <div class="center">
                         <br>
-                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/logo-unifor.png" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
+                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/estacio-logo.png" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
                         </div>
 
                     </div>
                     <div class="card-action center">
-                        <a class="blue-text text-darken-4" title="website" target="_blank" href="https://www.unifor.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="website" target="_blank" href="http://portal.estacio.br/"><i class="fa fa-globe fa-3x" aria-hidden="true"></i>
                         </a>
-                        <a class="blue-text text-darken-4" title="twitter" target="_blank" href="https://twitter.com/uniforoficial"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-                        </a>
-                        <a class="blue-text text-darken-4" title="facebook" target="_blank" href="https://www.facebook.com/uniforoficial/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                        <a class="blue-text text-darken-4" title="facebook" target="_blank" href="https://pt-br.facebook.com/br.estacio/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
