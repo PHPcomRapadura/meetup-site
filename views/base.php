@@ -15,46 +15,46 @@
 <body>
 
     <!-- Top Navigation -->
-    <?php require_once '../views/nav.php'; ?>
+    <?php require_once 'views/nav.php'; ?>
 
     <!-- Section Banner -->
-    <?php require_once '../views/banner.php'; ?>
+    <?php require_once 'views/banner.php'; ?>
 
     <!-- Section Parallax One -->
-    <?php require_once '../views/parallax-one.php'; ?>
+    <?php require_once 'views/parallax-one.php'; ?>
 
     <!-- Section About -->
-    <?php require_once '../views/about.php'; ?>
+    <?php require_once 'views/about.php'; ?>
 
     <!-- Section Speakers -->
-    <?php require_once '../views/speakers.php'; ?>
+    <?php require_once 'views/speakers.php'; ?>
 
     <!-- Section Parallax two -->
-    <?php require_once '../views/parallax-two.php'; ?>
+    <?php require_once 'views/parallax-two.php'; ?>
     <br>
     <!-- Section Local -->
-    <?php require_once '../views/local.php'; ?>
+    <?php require_once 'views/local.php'; ?>
 
     <!-- Section Parallax three -->
-    <?php require_once '../views/parallax-three.php'; ?>
+    <?php require_once 'views/parallax-three.php'; ?>
 
     <!-- Section schedule -->
-    <?php require_once '../views/schedule.php'; ?>
+    <?php require_once 'views/schedule.php'; ?>
 
     <!-- Section Parallax three -->
-    <?php require_once '../views/parallax-four.php'; ?>
+    <?php require_once 'views/parallax-four.php'; ?>
 
     <!-- Section Conduct-code -->
-    <?php require_once '../views/conduct-code.php'; ?>
+    <?php require_once 'views/conduct-code.php'; ?>
 
     <!-- Section FAQ -->
-    <?php require_once '../views/faq.php'; ?>
+    <?php require_once 'views/faq.php'; ?>
 
     <!-- Section sponsors -->
-    <?php require_once '../views/sponsors.php'; ?>
+    <?php require_once 'views/sponsors.php'; ?>
 
     <!-- Section sponsors -->
-    <?php require_once '../views/footer.php'; ?>
+    <?php require_once 'views/footer.php'; ?>
 
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
