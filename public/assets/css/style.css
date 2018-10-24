@@ -37,6 +37,11 @@ nav.color-marron {
   background: #563529 !important;
 }
 
+.color-azul {
+  background: #025c98;
+}
+
+
 nav.color-azul {
   background: #025c98 !important;
   z-index: 1000;
