@@ -2,7 +2,7 @@
     <div class="nav-wrapper container">
       <a id="logo-container" href="#home" class="brand-logo scrollSuave">
       
-        <img class="responsive-img" src="assets/img/logo-conference-pcr.png">
+        meetuPHPcomRapadura
         
       </a>
       <ul class="right hide-on-med-and-down">
