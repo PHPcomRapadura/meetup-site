@@ -31,13 +31,13 @@
                   </tr>
                   <tr>
                     <td>08:35  - 09:15</td>
-                    <td>Palestra 01 - A realidade nua e crua de um gerente de projetos. (Aline Chaves)</td>
-                    <td></td>
+                    <td>Palestra 01 - A realidade nua e crua de um gerente de projetos.</td>
+                    <td>Aline Chaves</td>
                   </tr>
                   <tr>
                     <td>09:20 - 10:00</td>
-                    <td>Palestra 02 - Monolog: Logging for PHP (Erison Nascimento)</td>
-                    <td></td>
+                    <td>Palestra 02 - Monolog: Logging for PHP</td>
+                    <td>Erison Nascimento</td>
                   </tr>
                   <tr>
                     <td>10:05 - 10:45</td>
@@ -46,13 +46,13 @@
                   </tr>
                   <tr>
                     <td>10:50 - 11:30</td>
-		    <td>Palestra 03 - Teste de intrusão em Aplicações PHP (Walderlan Sena)</td>
-                    <td></td>
+		    <td>Palestra 03 - Teste de intrusão em Aplicações PHP</td>
+                    <td>Walderlan Sena</td>
                   </tr>
                   <tr>
                     <td>11:35 - 12:15</td>
-                    <td>Palestra 04 - The 12 Factor App aplicado ao PHP (Dorian Neto)</td>
-                    <td></td>
+                    <td>Palestra 04 - The 12 Factor App aplicado ao PHP</td>
+                    <td>Dorian Neto</td>
                   </tr>
                   <tr>
                     <td>12:20 - 12:40</td>
