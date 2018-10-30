@@ -66,7 +66,7 @@
                         <hr></hr>
                         <div class="center">
                         <br>
-                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/estacio-logo.png" alt="UNIFOR" title="UNIFOR - Universidade de Fortaleza">
+                            <img class="responsive-img" id="img-sponsors" src="assets/img/sponsors/estacio-logo.png" alt="ESTÁCIO" title="ESTÁCIO - Universidade Estácio de Sá">
                         </div>
 
                     </div>
