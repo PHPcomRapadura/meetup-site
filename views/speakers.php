@@ -33,20 +33,18 @@
                 <div class="col s12 m6">
                     <div class="card">
                         <div class="card-content white-text">
-                            <span class="card-title font-blue center"><strong>Dorian Neto</strong></span>
+                            <span class="card-title font-blue center"><strong>Juliana Martins</strong></span>
                             <hr></hr>
                             <div class="center">
                                 <br>
-                                <img class="responsive-img" id="img-speakers" src="assets/img/speakers/dorian-neto.jpg" alt="Dorian Neto" title="Dorian Neto">
+                                <img class="responsive-img" id="img-speakers" src="assets/img/speakers/juliana.jpg" alt="Juliana Martins" title="Juliana Martins">
                             </div>
 
                         </div>
                             <div class="card-action center">
-                                <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/dorianneto"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
+                                <a class="blue-text text-darken-4" title="Github" target="_blank" href="https://github.com/jullianamartins"><i class="fa fa-github fa-3x" aria-hidden="true"></i>
                                 </a>
-                                <a class="blue-text text-darken-4" title="Twitter" target="_blank" href="https://twitter.com/doriansneto"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-                                </a>
-                                <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/doriansampaioneto"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+                                <a class="blue-text text-darken-4" title="Facebook" target="_blank" href="https://www.facebook.com/juliana.martinsdeoliveira.31"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
                                 </a>
                             </div>
                     </div>
