@@ -46,13 +46,13 @@
                   </tr>
                   <tr>
                     <td>10:50 - 11:30</td>
-		    <td>Palestra 03 - Teste de intrusão em Aplicações PHP</td>
-                    <td>Walderlan Sena</td>
+		    <td>Palestra 03 - Testes pra que te quero?</td>
+                    <td>Juliana Martins</td>
                   </tr>
                   <tr>
                     <td>11:35 - 12:15</td>
-                    <td>Palestra 04 - The 12 Factor App aplicado ao PHP</td>
-                    <td>Dorian Neto</td>
+                    <td>Palestra 04 - Teste de intrusão em Aplicações PHP</td>
+                    <td>Walderlan Sena</td>
                   </tr>
                   <tr>
                     <td>12:20 - 12:40</td>
