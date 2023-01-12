@@ -5,11 +5,11 @@
                 <img id="img-banner" class="responsive-img" src="assets/img/logo-rapadura.png" alt="PHP com Rapadura">
             </div>
             <div class="row center logo-conference">
-                <img id="img-banner" class="responsive-img" src="assets/img/logo.png" alt="PHP com Rapadura CONFERENCE">
+                <img id="img-banner" class="responsive-img" src="assets/img/logo.png" alt="MeetuPHP">
             </div>
             <div class="row center">
-                <h5 class="header col s12 light font-marron"><strong>10 de Novembro de 2018</strong></h5>
-                <h5 class="header col s12 light font-marron"><strong>Estácio - Moreira Campos</strong></h5>
+                <h5 class="header col s12 light font-marron"><strong>4 de Fevereiro de 2023</strong></h5>
+                <h5 class="header col s12 light font-marron"><strong>Digital College</strong></h5>
             </div>
 
             <div class="row center">
@@ -19,6 +19,6 @@
         </div>
     </div>
     <div class="parallax">
-        <img src="/assets/img/banner.png" alt="PHP com Rapadura CONFERENCE 2018" />
+        <img src="/assets/img/banner.png" alt="MeetuPHP 2023" />
     </div>
 </div>
