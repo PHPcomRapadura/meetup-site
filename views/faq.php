@@ -10,22 +10,6 @@
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 
                 <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <h4 class="panel-title">
-                            <a class="faq-toggle collapsed" onclick="toggleFaq(this, 'collapseOne')" role="button" href="javascript:;" aria-expanded="true" aria-controls="collapseOne">
-                                Tem Hospedagem?
-                            </a>
-                        </h4>
-                    </div>
-
-                    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                            <p>A hospedagem fica por conta do participante, a não ser que você seja um palestrante, porque se for vai ficar na casa dos artistas.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
                     <div class="panel-heading" role="tab" id="headingTwo">
                         <h4 class="panel-title">
                             <a class="faq-toggle" onclick="toggleFaq(this, 'collapseTwo')" href="javascript:;" aria-expanded="false" aria-controls="collapseTwo">
@@ -58,17 +42,32 @@
                 </div>
 
                 <div class="panel panel-default">
-                    <!-- <div class="panel-heading" role="tab" id="headingFour">
+                    <div
+                        class="panel-heading"
+                        role="tab"
+                        id="headingFour"
+                    >
                         <h4 class="panel-title">
-                            <a class="faq-toggle collapsed" onclick="toggleFaq(this, 'collapseFour')" href="javascript:;" aria-expanded="false" aria-controls="collapseFour">
+                            <a
+                                class="faq-toggle collapsed"
+                                onclick="toggleFaq(this, 'collapseFour')"
+                                href="javascript:;"
+                                aria-expanded="false"
+                                aria-controls="collapseFour"
+                            >
                                 Vai ter Rapadura?
                             </a>
                         </h4>
-                    </div> -->
+                    </div>
 
-                    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                    <div
+                        id="collapseFour"
+                        class="panel-collapse collapse"
+                        role="tabpanel"
+                        aria-labelledby="headingFour"
+                    >
                         <div class="panel-body">
-                            <p>Oxe, marréclaro, da onde já se viu, evento com a PHP com Rapadura não ter rapadura?</p>
+                            <p>Oxe, marréclaro, da onde já se viu, evento com a PHP com Rapadura não ter rapadura!?</p>
                         </div>
                     </div>
                 </div>
