@@ -3,7 +3,6 @@
 
       <div class="row">
         <div class="col s12 center">
-
           <h3 class="font-blue"><strong>Programação</strong></h3>
           <h5 class="font-blue">E o que vai ter de bom?</h5>
 
@@ -19,43 +18,44 @@
 
                     <tbody class="font-blue">
                         <tr>
-                            <td>07:40 - 08:10</td>
-                            <td>Credenciamento</td>
+                            <td>07:30</td>
+                            <td>Chegada do povo e Credenciamento</td>
                             <td>Comunidade PHP com Rapadura</td>
                         </tr>
                         <tr>
-                            <td>08:15 - 08:30</td>
+                            <td>08</td>
                             <td>Abertura</td>
                             <td>Comunidade PHP com Rapadura</td>
                         </tr>
+
                         <tr>
-                            <td>08:35 - 09:15</td>
-                            <td>Palestra 01 - A definir</td>
-                            <td>A definir</td>
+                            <td>08:15</td>
+                            <td>Talk 1</td>
+                            <td>(a definir)</td>
                         </tr>
                         <tr>
-                            <td>09:20 - 10:00</td>
-                            <td>Palestra 02 - A definir</td>
-                            <td>A definir</td>
+                            <td>09:00</td>
+                            <td>Talk 2</td>
+                            <td>(a definir)</td>
                         </tr>
                         <tr>
-                            <td>10:05 - 10:45</td>
+                            <td>9:45</td>
                             <td>Coffee Break</td>
                             <td>Comunidade PHP com Rapadura</td>
                         </tr>
                         <tr>
-                            <td>10:50 - 11:30</td>
-                            <td>Palestra 03 - A definir</td>
-                            <td>A definir</td>
+                            <td>10:30</td>
+                            <td>Talk 3</td>
+                            <td>(a definir)</td>
                         </tr>
                         <tr>
-                            <td>11:35 - 12:00</td>
-                            <td>Joguinho de Perguntas</td>
-                            <td>Comunidade PHP com Rapadura</td>
+                            <td>11:15</td>
+                            <td>Talk 4</td>
+                            <td>(a definir)</td>
                         </tr>
                         <tr>
-                            <td>12:05 - 12:20</td>
-                            <td>Encerramento e Brindes</td>
+                            <td>12:00</td>
+                            <td>Encerramento</td>
                             <td>Comunidade PHP com Rapadura</td>
                         </tr>
                     </tbody>
