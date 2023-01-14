@@ -6,8 +6,8 @@
                     <strong>INSCREVA-SE!</strong>
                 </h2>
                 <a
-                    href="javascript:void"
-                    onclick="alert('Em breve!')"
+                    href="https://www.sympla.com.br/meetuphp-com-rapadura-0223__1844762"
+                    target="_blank"
                     class="waves-effect waves-light btn-large color-marron"
                 >Clique aqui para comprar o seu ingresso
                 </a>
