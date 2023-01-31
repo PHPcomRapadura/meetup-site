@@ -30,13 +30,13 @@
 
                         <tr>
                             <td>08:15</td>
-                            <td>Talk 1</td>
-                            <td>(a definir)</td>
+                            <td>Protegendo-se de bugs com Programação Defensiva</td>
+                            <td>Julio Alves</td>
                         </tr>
                         <tr>
                             <td>09:00</td>
-                            <td>Talk 2</td>
-                            <td>(a definir)</td>
+                            <td>Botando os pés no mundo do processamento de linguagem natural</td>
+                            <td>Andreza Fernandes</td>
                         </tr>
                         <tr>
                             <td>9:45</td>
@@ -45,13 +45,13 @@
                         </tr>
                         <tr>
                             <td>10:30</td>
-                            <td>Talk 3</td>
-                            <td>(a definir)</td>
+                            <td>Programador php na Visão de quem contrata.</td>
+                            <td>Betho Costa</td>
                         </tr>
                         <tr>
                             <td>11:15</td>
-                            <td>Talk 4</td>
-                            <td>(a definir)</td>
+                            <td>Como fazer uma máquina do tempo com PHP</td>
+                            <td>Francisco Martins</td>
                         </tr>
                         <tr>
                             <td>12:00</td>
