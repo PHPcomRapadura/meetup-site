@@ -3,7 +3,7 @@
         class="section"
         id="sponsors"
     >
-        <div class="row">
+        <div class="row hide">
             <div class="col s12 m12">
                 <div class="icon-block">
                     <h3 class="center font-blue"><strong>Patrocinadores e Apoios</strong></h3>
@@ -12,7 +12,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row hide">
             <div class="col s12 m12">
                 <div class="card">
                     <div class="card-content white-text">
@@ -34,7 +34,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row hide">
             <div class="col s12 m6">
                 <div class="card">
                     <div class="card-content white-text">
@@ -79,7 +79,7 @@
                 <div class="card">
                     <div class="card-content white-text">
                         <span class="card-title font-blue"><strong>Apoio Institucional</strong></span>
-                        <hr></hr>
+                        <hr><hr>
                         <div class="center">
                             <br>
                             <a

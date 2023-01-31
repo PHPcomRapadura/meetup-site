@@ -51,7 +51,7 @@
     <?php require_once 'views/faq.php'; ?>
 
     <!-- Section sponsors -->
-    <?php /*require_once 'views/sponsors.php';*/ ?>
+    <?php require_once 'views/sponsors.php'; ?>
 
     <!-- Section sponsors -->
     <?php require_once 'views/footer.php'; ?>
