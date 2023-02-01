@@ -5,7 +5,7 @@
             <div class="col s12 center">
                 <h3 class="font-blue"><strong>Palestrantes</strong></h3>
                 <h5 class="font-blue hide">Conheça as autoridades</h5>
-                <h5 class="font-blue">Tá no forno!</h5>
+                <!--<h5 class="font-blue">Tá no forno!</h5>-->
             </div>
         </div>
 
