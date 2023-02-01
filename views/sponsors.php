@@ -75,59 +75,151 @@
         </div>
 
         <div class="row">
-            <div class="col s12 m6">
-                <div class="card">
-                    <div class="card-content white-text">
-                        <span class="card-title font-blue"><strong>Apoio Institucional</strong></span>
-                        <hr><hr>
-                        <div class="center">
-                            <br>
+            <div>
+                <span class="card-title font-blue"><strong>Patrocínio</strong></span>
+                <hr>
+            </div>
+            <?php
+            foreach (SPONSORS as $SPONSOR) {
+                ?>
+                <div
+                    class="col <?php
+                    echo $SPONSOR['sizes']; ?>"
+                >
+                    <div class="card">
+                        <div class="card-content white-text">
+                            <div class="center">
+                                <br>
+                                <a
+                                    target="_blank"
+                                    href="<?php
+                                    echo $SPONSOR['home']; ?>"
+                                    class="site-logo-container"
+                                    rel="home"
+                                >
+                                    <picture class="logo-arretado">
+                                        <source
+                                            srcset="<?php
+                                            echo $SPONSOR['logo']; ?>"
+                                            type="image/webp"
+                                        >
+                                        <img
+                                            alt="<?php
+                                            echo $SPONSOR['alt']; ?>"
+                                            data-src="<?php
+                                            echo $SPONSOR['logo']; ?>"
+                                            class="default-logo webpexpress-processed ls-is-cached lazyloaded"
+                                            src="<?php
+                                            echo $SPONSOR['logo']; ?>"
+                                        >
+                                    </picture>
+                                </a>
+                            </div>
+
+                        </div>
+                        <div class="card-action center">
                             <a
+                                class="blue-text text-darken-4"
+                                title="website"
                                 target="_blank"
-                                href="https://digitalcollege.com.br/"
-                                class="site-logo-container"
-                                rel="home"
-                            >
-                                <picture class="logo-arretado">
-                                    <source
-                                        srcset="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp"
-                                        type="image/webp"
-                                    >
-                                    <img
-                                        alt="Digital College: Ensino de Habilidades Digitais"
-                                        data-src="https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png"
-                                        class="default-logo webpexpress-processed ls-is-cached lazyloaded"
-                                        src="https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png"
-                                    >
-                                </picture>
+                                href="<?php
+                                echo $SPONSOR['social']['website']; ?>"
+                            ><i
+                                    class="fa fa-globe fa-3x"
+                                    aria-hidden="true"
+                                ></i>
+                            </a>
+                            <a
+                                class="blue-text text-darken-4"
+                                title="instagram"
+                                target="_blank"
+                                href="<?php
+                                echo $SPONSOR['social']['instagram']; ?>"
+                            ><i
+                                    class="fa fa-instagram fa-3x"
+                                    aria-hidden="true"
+                                ></i>
                             </a>
                         </div>
-
-                    </div>
-                    <div class="card-action center">
-                        <a
-                            class="blue-text text-darken-4"
-                            title="website"
-                            target="_blank"
-                            href="https://digitalcollege.com.br"
-                        ><i
-                                class="fa fa-globe fa-3x"
-                                aria-hidden="true"
-                            ></i>
-                        </a>
-                        <a
-                            class="blue-text text-darken-4"
-                            title="instagram"
-                            target="_blank"
-                            href="https://www.instagram.com/digitalcollegebr"
-                        ><i
-                                class="fa fa-instagram fa-3x"
-                                aria-hidden="true"
-                            ></i>
-                        </a>
                     </div>
                 </div>
+                <?php
+            }
+            ?>
+        </div>
+
+        <div class="row">
+            <div>
+                <span class="card-title font-blue"><strong>Apoio Institucional</strong></span>
+                <hr>
             </div>
+            <?php
+            foreach (SUPPORTERS as $SUPPORTER) {
+                ?>
+                <div
+                    class="col <?php
+                    echo $SUPPORTER['sizes']; ?>"
+                >
+                    <div class="card">
+                        <div class="card-content white-text">
+                            <div class="center">
+                                <br>
+                                <a
+                                    target="_blank"
+                                    href="<?php
+                                    echo $SUPPORTER['home']; ?>"
+                                    class="site-logo-container"
+                                    rel="home"
+                                >
+                                    <picture class="logo-arretado">
+                                        <source
+                                            srcset="<?php
+                                            echo $SUPPORTER['logo']; ?>"
+                                            type="image/webp"
+                                        >
+                                        <img
+                                            alt="<?php
+                                            echo $SUPPORTER['alt']; ?>"
+                                            data-src="<?php
+                                            echo $SUPPORTER['logo']; ?>"
+                                            class="default-logo webpexpress-processed ls-is-cached lazyloaded"
+                                            src="<?php
+                                            echo $SUPPORTER['logo']; ?>"
+                                        >
+                                    </picture>
+                                </a>
+                            </div>
+
+                        </div>
+                        <div class="card-action center">
+                            <a
+                                class="blue-text text-darken-4"
+                                title="website"
+                                target="_blank"
+                                href="<?php
+                                echo $SUPPORTER['social']['website']; ?>"
+                            ><i
+                                    class="fa fa-globe fa-3x"
+                                    aria-hidden="true"
+                                ></i>
+                            </a>
+                            <a
+                                class="blue-text text-darken-4"
+                                title="instagram"
+                                target="_blank"
+                                href="<?php
+                                echo $SUPPORTER['social']['instagram']; ?>"
+                            ><i
+                                    class="fa fa-instagram fa-3x"
+                                    aria-hidden="true"
+                                ></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <?php
+            }
+            ?>
         </div>
     </div>
 </div>
@@ -135,9 +227,8 @@
 <style>
 .logo-arretado {
   display: inline-block;
-  background: #000;
   border-radius: 8px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .logo-arretado img {

@@ -12,14 +12,14 @@ nav .brand-logo {
   color: rgb(250, 246, 246);
 }
 
-#img-sponsors{
+#img-sponsors {
   border-width: medium;
   border-style: solid;
   border-radius: 10%;
   border-color: #025c98;
 }
 
-#img-speakers{
+#img-speakers {
 
   border-width: medium;
   border-style: solid;
@@ -48,15 +48,15 @@ nav.color-azul {
 }
 
 .font-blue {
-    color: #025c98 !important;
+  color: #025c98 !important;
 }
 
 .btn-blue {
-    background: #025c98 !important;
-    color: #FFFFFF;
+  background: #025c98 !important;
+  color: #FFFFFF;
 }
 
-.font-marron{
+.font-marron {
   color: #563529 !important;
 }
 
@@ -68,17 +68,17 @@ p {
   color: #dfe0e0;
 }
 
-.text-parallax{
-  font-size: 30px; 
-  padding:20px;
-  color:rgb(255, 255, 255); 
-  text-shadow: 0 0 20px rgb(3, 0, 0), 0 -10px 20px rgb(12, 12, 12), 
-               0 10px 20px rgb(7, 7, 7), -20px 0 40px rgb(14, 13, 13), 
-               20px 0 40px rgb(10, 10, 10);
+.text-parallax {
+  font-size: 30px;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 20px rgb(3, 0, 0), 0 -10px 20px rgb(12, 12, 12),
+  0 10px 20px rgb(7, 7, 7), -20px 0 40px rgb(14, 13, 13),
+  20px 0 40px rgb(10, 10, 10);
 
 }
 
-.img-parallax{
+.img-parallax {
   filter: brightness(70%);
 }
 
@@ -86,36 +86,39 @@ p {
   min-height: 695px;
   line-height: 0;
   height: auto;
-  color: rgba(255,255,255,.9);
+  color: rgba(255, 255, 255, .9);
   text-transform: uppercase;
 }
-  .parallax-container .section {
-    width: 100%;
-  }
 
-@media only screen and (max-width : 992px) {
+.parallax-container .section {
+  width: 100%;
+}
+
+@media only screen and (max-width: 992px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
   }
+
   #index-banner .section {
     top: 10%;
   }
 }
 
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width: 600px) {
   #index-banner .section {
     top: 0;
   }
 }
 
-#img-banner{
-  margin-top:60px;
+#img-banner {
+  margin-top: 60px;
 }
 
 .icon-block {
   padding: 0 15px;
 }
+
 .icon-block .material-icons {
   font-size: inherit;
 }
@@ -134,4 +137,10 @@ div#sympla-widget-288555 {
 
 div#sympla-widget-288555 iframe {
   max-width: 600px !important;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(90deg,#dcdcdc66 0%,#dcdcdccc 2%,#ddd 50%,#dcdcdccc 98%,#dcdcdc66);
 }
